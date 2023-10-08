@@ -1,0 +1,11 @@
+Dataset and Its Visualization
+Type of Dataset
+Cross-sectional dataset was used for the analysis. A cross-sectional dataset is a type of research data that offers an overview 
+of a particular group or event by collecting information at a specific time period. In consideration of the provided dataset, This 
+cross-sectional real estate dataset includes information on a range of random features of properties that were sold over a specific time 
+period. This dataset includes information on the year each property was sold, its square footage, area, number of floors, kind of 
+garage, etc., as well as the sales price for each property that has the relevant features and their associated values.
+
+Dimension of Dataset
+The original dataset had 1144 rows and 79 columns, which can be expressed as 79 x 1144. I will use 11 columns and 1144 rows from this 
+dataset for my analysis. 
